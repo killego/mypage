@@ -11,9 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-</body>
-<这个网页的主题是什么呢？>
+# Header 1<这个网页的主题是什么呢？>
 ## Header 2
 ### Header 3
 
